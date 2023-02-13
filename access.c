@@ -1,4 +1,9 @@
-include "shell.h"
+#include "shell.h"UTHORS      fflush.c    kill.c            shell.h
+ chdir.c      fork.c      malloc.c          signal.c
+  close.c      free.c      open.c            stat.c
+   closedir.c   getcwd.c    perror.c
+    execve.c     getline.c   read.c
+     _exit.c      getpid.c
 
 /**
  * interactive - returns true if shell is interactive mode
