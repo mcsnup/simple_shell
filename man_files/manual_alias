@@ -1,4 +1,4 @@
-alias: alias
+Halias: alias
        Define or display aliases.
 
     Without arguments, `alias' prints the list of aliases in the reusable
