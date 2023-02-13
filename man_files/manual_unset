@@ -1,4 +1,4 @@
-Hnset: unset
+nset: unset
     Unset values and attributes of shell variables and functions.
 
     For each NAME, remove the corresponding variable or function.
