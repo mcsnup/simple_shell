@@ -1,7 +1,4 @@
- print_errors.c  string_funics_2.c
- helper_funcs.c   print_funcs.c   tokenize.c
- list_funcs_1.c   README.md
- list_funcs_2.c   set_env.ctttttt "shell.h"
+#include "shell.h"
 
 /**
  * is_builtin - checks if the command is a builtin
